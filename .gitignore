@@ -92,3 +92,9 @@ hr-worker/mvnw.cmd
 hr-worker/.mvn/wrapper/maven-wrapper.jar
 hr-worker/.mvn/wrapper/MavenWrapperDownloader.java
 hr-worker/.mvn/wrapper/maven-wrapper.properties
+
+hr-payroll/mvnw
+hr-payroll/mvnw.cmd
+hr-payroll/.mvn/wrapper/maven-wrapper.jar
+hr-payroll/.mvn/wrapper/MavenWrapperDownloader.java
+hr-payroll/.mvn/wrapper/maven-wrapper.properties
